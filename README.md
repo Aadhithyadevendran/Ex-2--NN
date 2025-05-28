@@ -1,10 +1,8 @@
-<H3>Name: AADHITHYA D</H3>
-<H3>Register no: 212222230035</H3>
-
-## date: 14.03.2025
-
-
-# Ex 02 - Implementation of Perceptron for Binary Classification
+<H3>Name : AADHITHYA D</H3>
+<H3>REGISTER NO: 212222220001 </H3>
+<H3>EX NO.1</H3>
+<H3>DATE :01.03.2025</H3>
+<H1 ALIGN =CENTER> Implementation of Perceptron for Binary Classification</H1>
 
 # AIM:
 To implement a perceptron for classification using Python<BR>
